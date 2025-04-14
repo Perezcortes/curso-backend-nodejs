@@ -1,6 +1,10 @@
 
 # Proyecto Curso Backend Node.js
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="200">
+</p>
+
 Este proyecto es una API RESTful construida con **Node.js** y **Express**. Está orientada a la gestión de productos, categorías y usuarios para una tienda en línea. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos, y también incluye middleware para el manejo de errores y validación de datos.
 
 El proyecto utiliza **Joi** para validar los datos de los productos, y **Boom** para el manejo de errores HTTP personalizados. Se incluye un servicio que simula la creación de productos falsos utilizando **Faker**.
